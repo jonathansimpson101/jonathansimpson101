@@ -56,4 +56,4 @@
 
   <h3 align="left">Let's have a chat:</h3>
   <div>My <a href="https://www.instagram.com/__jonathan__michael__/" target="_blank">Instagram</a>.</div>
-  <div>My <a href="mailto:jonathansimpson101@email.com" target="_blank">email address</a>.</div></body>
+  <div>My <a href="mailto:jonathansimpson101@gmail.com" target="_blank">email address</a>.</div></body>
