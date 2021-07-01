@@ -4,7 +4,7 @@
   <h3 align="left">Here are some things that I like: </h3>
   <ol>
     <li>Improving my coding skillset a little bit every day. 🙇🏼‍♂️</li>
-    <li>Websites that make people ask "how did they build that?" 👏</li>
+    <li>Websites that make my MacBook's fan turn on. 👏</li>
     <li>Javascript. All things Javascript. 🔥 🟨 🔥</li>
       <li>The Le Wagon Coding Bootcamp, and everyone who works/studies there. ❤️ </li>
     <li>Fitness (mainly admiring it in others) 💪🏻</li>
